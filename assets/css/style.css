@@ -1,0 +1,49 @@
+/* 
+Fuentes
+font-family: 'Bree Serif', serif;
+font-family: 'Roboto Slab', serif; */
+
+body {
+
+    margin: 0;
+    padding: 0;
+    line-height: 16 px;
+    background-color: black;
+}
+
+/*navbar*/
+.navbar {
+    background-color: transparent;
+}
+
+.logo {
+    margin-left: 30px;
+}
+
+.nav-link {
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin-right: 20px;
+}
+
+/*Carousel*/
+
+
+/*Quienes Somos*/
+
+h5 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+.encabezado{
+
+background-color: aqua;
+width:100% ;
+height: 40px;
+margin-top: 30px;
+text-align: center;  
+}
