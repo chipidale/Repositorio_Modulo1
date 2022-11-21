@@ -9,7 +9,7 @@ body {
     padding: 0;
     line-height: 16 px;
     background-color: black;
-    
+    width: 100vw
 }
 
 /*navbar*/
@@ -82,9 +82,12 @@ border-radius: 0mm;
 
 /* RRSS*/
 
-#futer{
-    margin-top: 3rem;
-   
+#futer {
+       color: white;
+}
+  
+#icons{
+padding-bottom: 2em;
 }
     
 
