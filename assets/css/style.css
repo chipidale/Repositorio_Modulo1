@@ -9,6 +9,7 @@ body {
     padding: 0;
     line-height: 16 px;
     background-color: black;
+    
 }
 
 /*navbar*/
@@ -30,20 +31,51 @@ body {
 /*Carousel*/
 
 
-/*Quienes Somos*/
+/* Grilla */
+
 
 h5 {
     font-family: 'Roboto Slab', serif;
     font-size: 30px;
     font-weight: 700;
+color: white;
+margin-bottom: 4rem;
 
 }
 
 .encabezado{
 
-background-color: aqua;
+background-color: rgb(50, 218, 218);
 width:100% ;
 height: 40px;
 margin-top: 30px;
-text-align: center;  
+text-align: center;
+float: left;  
+}
+
+p{
+    text-align: left;
+}
+
+/* DESTACADOS*/
+.image-top{
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+background-repeat: no-repeat;
+border-radius: 0mm;
+
+}
+
+.card{
+    padding: 0;
+    margin-left: 1rem;
+    border-radius: 0mm;
+    padding: 0px;
+    width: 25rem;
+    text-align: center;
+}
+.card-body{
+    height:200px ;
+    background-color: rgb(50, 218, 218)
 }
